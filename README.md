@@ -1,5 +1,6 @@
-# Test Containeur symfony5.2-php8
+# Test Containeur symfony6.0-php8
 
+```git clone https://github.com/sofiane-wattiez/symfony5.2-php8-docker.git```
 
 ```cd symfony6.0-php8```
 
