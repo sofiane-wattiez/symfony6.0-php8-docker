@@ -1,4 +1,4 @@
-FROM php:8.1.0-fpm-alpine
+FROM php:8.2.1-fpm-alpine
 RUN apk --update --no-cache add git
 RUN docker-php-ext-install pdo_mysql
 COPY --from=composer /usr/bin/composer /usr/bin/composer
